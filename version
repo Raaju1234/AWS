@@ -1,0 +1,20 @@
+pipeline { Anil , Suresh, Raju
+          agent any 
+          stages {
+            sages('Build') {
+              steps{
+                //
+              }
+            }
+            stages('test') {
+              steps {
+                //
+              }
+            }
+            stages('Deploy') {
+              steps {
+                //
+              }
+            }
+          }
+         }
